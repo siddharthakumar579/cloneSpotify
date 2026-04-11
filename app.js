@@ -103,3 +103,63 @@ uploadArea.addEventListener('drop', (e) => {
                 card.querySelector('.card-play').style.transform = 'translateY(8px)';
             });
         });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if (e.dataTransfer.files.length > 0) {
+                const file = e.dataTransfer.files[0];
+                if (file.type.includes('audio')) {
+                    alert(`File ready for upload: ${file.name}`);
+                    // In a real app, you would handle the file upload here
+                } else {
+                    alert('Please upload audio files only');
+                }if (e.dataTransfer.files.length > 0) {
+                const file = e.dataTransfer.files[0];
+                if (file.type.includes('audio')) {
+                    alert(`File ready for upload: ${file.name}`);
+                    // In a real app, you would handle the file upload here
+                } else {
+                    alert('Please upload audio files only');
+                }if (e.dataTransfer.files.length > 0) {
+                const file = e.dataTransfer.files[0];
+                if (file.type.includes('audio')) {
+                    alert(`File ready for upload: ${file.name}`);
+                    // In a real app, you would handle the file upload here
+                } else {
+                    alert('Please upload audio files only');
+                }if (e.dataTransfer.files.length > 0) {
+                const file = e.dataTransfer.files[0];
+                if (file.type.includes('audio')) {
+                    alert(`File ready for upload: ${file.name}`);
+                    // In a real app, you would handle the file upload here
+                } else {
+                    alert('Please upload audio files only');
+                }if (e.dataTransfer.files.length > 0) {
+                const file = e.dataTransfer.files[0];
+                if (file.type.includes('audio')) {
+                    alert(`File ready for upload: ${file.name}`);
+                    // In a real app, you would handle the file upload here
+                } else {
+                    alert('Please upload audio files only');
+                }
