@@ -110,7 +110,5 @@ uploadArea.addEventListener('drop', (e) => {
         //     });
             
         //     card.addEventListener('mouseleave', () => {
-        //         
-        //         card.querySelector('.card-play').style.transform = 'translateY(8px)';
         //     });
         // });
