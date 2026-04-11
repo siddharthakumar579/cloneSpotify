@@ -107,5 +107,3 @@ uploadArea.addEventListener('drop', (e) => {
         //     card.addEventListener('mouseenter', () => {
         //         card.querySelector('.card-play').style.opacity = '1';
         //     });
-            
-        // });
