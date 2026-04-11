@@ -109,6 +109,4 @@ uploadArea.addEventListener('drop', (e) => {
         //         card.querySelector('.card-play').style.transform = 'translateY(0)';
         //     });
             
-        //     card.addEventListener('mouseleave', () => {
-        //     });
         // });
