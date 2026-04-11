@@ -103,7 +103,3 @@ uploadArea.addEventListener('drop', (e) => {
                 card.querySelector('.card-play').style.transform = 'translateY(8px)';
             });
         });
-        // document.querySelectorAll('.card').forEach(card => {
-        //     card.addEventListener('mouseenter', () => {
-        //         card.querySelector('.card-play').style.opacity = '1';
-        //     });
