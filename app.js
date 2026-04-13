@@ -1,3 +1,4 @@
+//const
 const uploadArea = document.getElementById('uploadArea');
 
 uploadArea.addEventListener('dragover', (e) => {
