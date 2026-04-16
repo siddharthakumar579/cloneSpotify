@@ -1,2 +1,2 @@
-Still plenty of work left to be 
+Still plenty of work left to be finished!
 
