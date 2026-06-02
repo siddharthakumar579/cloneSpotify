@@ -1,6 +1,6 @@
-//const
-const uploadArea = document.getElementById('uploadArea');
 
+const uploadArea = document.getElementById('uploadArea');
+//cons
 uploadArea.addEventListener('dragover', (e) => {
   e.preventDefault();
   uploadArea.style.borderColor = '#1DB954'; // Visual feedback
