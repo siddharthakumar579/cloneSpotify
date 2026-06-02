@@ -61,7 +61,7 @@ uploadArea.addEventListener('drop', (e) => {
             }
         }, 100);
         
-        // Upload area interaction
+        // Upload area interaction 
         // const uploadArea = document.getElementById('uploadArea');
         
         uploadArea.addEventListener('click', () => {
