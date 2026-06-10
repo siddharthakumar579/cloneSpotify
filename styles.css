@@ -16,7 +16,7 @@
             --text-tertiary: #727272;
         }
 
-        body {
+        body{
             background-color: var(--dark-bg);
             color: var(--text-primary);
             display: flex;
